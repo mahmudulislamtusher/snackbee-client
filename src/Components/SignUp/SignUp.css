@@ -1,0 +1,11 @@
+.googleSignUp{
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 2px solid #CED4DA; 
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+}
+.googleSignUp span{
+    background:#fff; 
+    padding:0 10px;
+}

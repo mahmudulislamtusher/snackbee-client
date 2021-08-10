@@ -1,0 +1,64 @@
+p{
+    margin: 0;
+    padding: 0;
+}
+h5{
+    border-bottom: 3px solid #F59E0B;
+}
+.paperPlane{
+    font-size: 40px;
+    margin: 10px 25px 0 0;
+}
+.contact p{
+    margin-bottom: 10px;
+}
+.contactIcon{
+    margin-right: 10px;
+}
+.subscriptionArea{
+    background: #F59E0B;
+    color: #fff;
+    padding: 20px;
+}
+.copyrightArea{
+    border-top: 3px solid #E5E7EB;
+}
+.copyrightArea p{
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+form.subscriptionForm input[type=email] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 280px;
+    background: #f1f1f1;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+  
+  form.subscriptionForm button {
+    float: left;
+    width: 100px;
+    padding: 10px;
+    background: #FFC107;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+  }
+  
+  form.subscriptionForm button:hover {
+    background: #b88b04;
+  }
+  
+  form.subscriptionForm::after {
+    content: "";
+    clear: both;
+    display: table;
+  }

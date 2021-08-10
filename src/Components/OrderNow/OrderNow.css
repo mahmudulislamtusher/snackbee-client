@@ -1,0 +1,9 @@
+.orderImage{
+    width: 250px;
+    height: 250px;
+}
+.orderedItem{
+    background-color: rgba(233, 233, 14, 0.212);
+    margin-right: 30px;
+    border-radius: 10px;
+}

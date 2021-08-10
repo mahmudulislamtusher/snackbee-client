@@ -1,0 +1,6 @@
+.errorMessage{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-55%, 25%);
+}

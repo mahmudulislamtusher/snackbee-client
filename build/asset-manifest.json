@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9cf3353a.chunk.css",
+    "main.js": "/static/js/main.4a2de60f.chunk.js",
+    "main.js.map": "/static/js/main.4a2de60f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b30201cf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b30201cf.js.map",
+    "static/js/2.f121eb21.chunk.js": "/static/js/2.f121eb21.chunk.js",
+    "static/js/2.f121eb21.chunk.js.map": "/static/js/2.f121eb21.chunk.js.map",
+    "static/js/3.1ccf151b.chunk.js": "/static/js/3.1ccf151b.chunk.js",
+    "static/js/3.1ccf151b.chunk.js.map": "/static/js/3.1ccf151b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9cf3353a.chunk.css.map": "/static/css/main.9cf3353a.chunk.css.map",
+    "static/js/2.f121eb21.chunk.js.LICENSE.txt": "/static/js/2.f121eb21.chunk.js.LICENSE.txt",
+    "static/media/404.e690f775.png": "/static/media/404.e690f775.png",
+    "static/media/SnackBee.59bfd1e4.png": "/static/media/SnackBee.59bfd1e4.png",
+    "static/media/one.e4f4a88e.png": "/static/media/one.e4f4a88e.png",
+    "static/media/paymentMethod.aebd2247.png": "/static/media/paymentMethod.aebd2247.png",
+    "static/media/three.d17317b9.png": "/static/media/three.d17317b9.png",
+    "static/media/two.482f3e1c.png": "/static/media/two.482f3e1c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b30201cf.js",
+    "static/js/2.f121eb21.chunk.js",
+    "static/css/main.9cf3353a.chunk.css",
+    "static/js/main.4a2de60f.chunk.js"
+  ]
+}

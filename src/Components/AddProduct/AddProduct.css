@@ -1,0 +1,23 @@
+.pictureUpload{
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #CED4DA;
+}
+.addedProduct{
+    border-right: 2px solid #CED4DA;
+    padding-right: 25px;
+}
+.snackItem{
+    width: 780px;
+    border-radius: 5px;
+    border: 1px solid #CED4DA;
+    padding: 2px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+.addProductMain{
+    height: 350px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}

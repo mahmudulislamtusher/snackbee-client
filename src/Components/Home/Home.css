@@ -1,0 +1,63 @@
+p{
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+}
+.header{
+    background: #F3F4F6;
+    padding-top: 12px;
+    height: 50px;
+}
+.sign-in span{
+   color: #ffac1d;
+   font-weight: bold;
+}
+.logo{
+    width: 250px;
+}
+* {
+    box-sizing: border-box;
+  }
+
+.searchItem{
+    margin-top: 15px;
+}
+
+.signInAccount{
+    margin-top: 16px;
+}
+
+  form.searchItem input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 400px;
+    background: #f1f1f1;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+  
+  form.searchItem button {
+    float: left;
+    width: 120px;
+    padding: 10px;
+    background: #FFC107;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+  }
+  
+  form.searchItem button:hover {
+    background: #b88b04;
+  }
+  
+  form.searchItem::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
